@@ -41,5 +41,24 @@ I am building my data skills in Excel, SQL and Power BI.
 
 [View SQL Fiddle here] https://www.db-fiddle.com/f/r5D2GmUBCvic9JRogpg3bU/2
 
+## Project 3 — WHO Life Expectancy Power BI Dashboard
+
+**Tool:** Power BI  
+**Data:** WHO World Health Statistics 2020  
+**Skills:** Data visualisation, Filtering, Clustered bar charts, Card visuals
+
+### What I did
+- Loaded cleaned WHO dataset into Power BI
+- Built a bar chart ranking countries by life expectancy in 2019
+- Built a clustered bar chart comparing Male vs Female life expectancy
+- Added a card showing global average life expectancy of 70.25 years
+
+### Key Findings
+- Japan has the highest life expectancy in 2019
+- Women outlive men in every single country in the dataset
+- Global average life expectancy is 70.25 years
+
+![Power BI Dashboard](WHO_Life_Expectancy_Dashboard.png)
+
 
 *More projects coming soon — SQL and Power BI*
