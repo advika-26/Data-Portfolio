@@ -58,7 +58,7 @@ I am building my data skills in Excel, SQL and Power BI.
 - Women outlive men in every single country in the dataset
 - Global average life expectancy is 70.25 years
 
-![Power BI Dashboard](WHO_Life_Expectancy_Dashboard.png)
+![Power BI Dashboard](image_2026-06-23_161711465.png)
 
 
 *More projects coming soon — SQL and Power BI*
