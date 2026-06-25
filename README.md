@@ -79,7 +79,7 @@ I am building my data skills in Excel, SQL and Power BI.
 - Convalescent Plasma was the most common biological intervention
 - Large number of trials had unknown interventions showing the rushed nature of early COVID research
 
-![COVID Treemap](Covid trial treemap.png)
+![COVID Treemap](Covid%20trial%20treemap.png)
 
 
 *More projects coming soon — SQL and Power BI*
