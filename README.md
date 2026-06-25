@@ -60,5 +60,26 @@ I am building my data skills in Excel, SQL and Power BI.
 
 ![Power BI Dashboard](image_2026-06-23_161711465.png)
 
+## Project 4 — COVID-19 Clinical Trials Analysis
+
+**Tool:** Excel  
+**Data:** ClinicalTrials.gov — 8,133 COVID-19 clinical trials  
+**Skills:** Data cleaning, Pivot Tables, Treemap Visualisation
+
+### What I did
+- Cleaned 8,133 rows of real COVID-19 clinical trial data from ClinicalTrials.gov
+- Removed irrelevant columns and fixed data entry errors across multiple columns
+- Extracted primary interventions, conditions, sponsors and countries from messy multi-value cells
+- Built a pivot table to identify the most trialled drugs and interventions
+- Created a Treemap chart to visualise intervention frequency
+
+### Key Findings
+- Hydroxychloroquine was the most trialled drug with 75 trials
+- Remdesivir, Ivermectin, Tocilizumab and Favipiravir featured heavily
+- Convalescent Plasma was the most common biological intervention
+- Large number of trials had unknown interventions showing the rushed nature of early COVID research
+
+![COVID Treemap](covid_treemap.png)
+
 
 *More projects coming soon — SQL and Power BI*
