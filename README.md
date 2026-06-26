@@ -84,15 +84,18 @@ I am building my data skills in Excel, SQL and Power BI.
 ## Project 5 — COVID-19 Clinical Trials SQL Analysis
 
 **Tool:** SQL (SQLite via SQLiteOnline)  
-**Data:** ClinicalTrials.gov 8,133 COVID-19 clinical trials  
+**Data:** ClinicalTrials.gov — 8,133 COVID-19 clinical trials  
 **Skills:** SELECT, COUNT, GROUP BY, ORDER BY, AVG, CAST, WHERE
 
-### What I did
-- Imported 8,133 rows of real COVID-19 clinical trial data into SQLiteOnline
-- Wrote 5 SQL queries to analyse trial patterns across countries, phases, status and funding
+### Questions I answered with SQL
+1. Which countries ran the most COVID-19 clinical trials?
+2. Which trial phases were most common?
+3. What was the breakdown of trial statuses?
+4. Which study types had the highest average enrollment?
+5. Which funding sources sponsored the most trials?
 
 ### Key Findings
-- United States ran the most COVID trials (1,780) more than double France (894)
+- United States ran the most COVID trials (1,780) — more than double France (894)
 - Phase 2 was the most common trial phase (907 trials)
 - More trials were Completed (2,660) than still Recruiting (2,563)
 - Observational studies had far larger average enrollment (68,135) than Interventional (11,522)
