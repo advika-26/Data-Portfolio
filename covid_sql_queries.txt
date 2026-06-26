@@ -1,0 +1,39 @@
+Query 1: Countries with most COVID trials
+SELECT c15 AS Country, COUNT(*) AS Trial_Count
+FROM covid_clean
+WHERE c15 != ''
+GROUP BY c15
+ORDER BY Trial_Count DESC
+LIMIT 10;
+
+Query 2: Most common trial phases
+SELECT c9 AS Phase, COUNT(*) AS Trial_Count
+FROM covid_clean
+WHERE c9 != ''
+GROUP BY c9
+ORDER BY Trial_Count DESC;
+
+Query 3: Trial statuses
+SELECT c3 AS Status, COUNT(*) AS Trial_Count
+FROM covid_clean
+WHERE c3 != ''
+GROUP BY c3
+ORDER BY Trial_Count DESC;
+
+Query 4: Study types by average enrollment
+SELECT c12 AS Study_Type, 
+       COUNT(*) AS Trial_Count,
+       ROUND(AVG(CAST(c10 AS REAL)), 0) AS Avg_Enrollment
+FROM covid_clean
+WHERE c12 != '' AND c10 != '0'
+GROUP BY c12
+ORDER BY Avg_Enrollment DESC;
+
+Query 5: Funding sources
+SELECT c11 AS Funded_By, 
+       COUNT(*) AS Trial_Count
+FROM covid_clean
+WHERE c11 != ''
+GROUP BY c11
+ORDER BY Trial_Count DESC
+LIMIT 10;
