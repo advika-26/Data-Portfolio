@@ -81,5 +81,28 @@ I am building my data skills in Excel, SQL and Power BI.
 
 ![COVID Treemap](Covid%20trial%20treemap.png)
 
+## Project 5 — COVID-19 Clinical Trials SQL Analysis
+
+**Tool:** SQL (SQLite via SQLiteOnline)  
+**Data:** ClinicalTrials.gov — 8,133 COVID-19 clinical trials  
+**Skills:** SELECT, COUNT, GROUP BY, ORDER BY, AVG, CAST, WHERE
+
+### What I did
+- Imported 8,133 rows of real COVID-19 clinical trial data into SQLiteOnline
+- Wrote 5 SQL queries to analyse trial patterns across countries, phases, status and funding
+
+### Key Findings
+- United States ran the most COVID trials (1,780) — more than double France (894)
+- Phase 2 was the most common trial phase (907 trials)
+- More trials were Completed (2,660) than still Recruiting (2,563)
+- Observational studies had far larger average enrollment (68,135) than Interventional (11,522)
+- Only 13% of trials were directly funded by Industry — most funded by hospitals and universities
+
+![Query 1 - Countries](Query%201%20SQL.png)
+![Query 2 - Phases](Query%202%20SQL.png)
+![Query 3 - Status](Query%203%20SQL.png)
+![Query 4 - Enrollment](Query%204%20SQL.png)
+![Query 5 - Funding](Query%205%20SQL.png)
+
 
 *More projects coming soon — SQL and Power BI*
