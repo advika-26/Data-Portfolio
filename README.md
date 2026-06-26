@@ -12,7 +12,7 @@ I am building my data skills in Excel, SQL and Power BI.
 **Skills:** Data cleaning, Pivot Tables, Data Visualisation
 
 ### What I did
-- Cleaned raw WHO dataset — fixed decimal formatting, removed redundant columns and renamed headers
+- Cleaned raw WHO dataset  fixed decimal formatting, removed redundant columns and renamed headers
 - Built a pivot table to compare life expectancy across 180+ countries
 - Created a bar chart of the top 10 countries by life expectancy in 2019
 
@@ -63,7 +63,7 @@ I am building my data skills in Excel, SQL and Power BI.
 ## Project 4 — COVID-19 Clinical Trials Analysis
 
 **Tool:** Excel  
-**Data:** ClinicalTrials.gov — 8,133 COVID-19 clinical trials  
+**Data:** ClinicalTrials.gov  8,133 COVID-19 clinical trials  
 **Skills:** Data cleaning, Pivot Tables, Treemap Visualisation
 
 ### What I did
@@ -84,7 +84,7 @@ I am building my data skills in Excel, SQL and Power BI.
 ## Project 5 — COVID-19 Clinical Trials SQL Analysis
 
 **Tool:** SQL (SQLite via SQLiteOnline)  
-**Data:** ClinicalTrials.gov — 8,133 COVID-19 clinical trials  
+**Data:** ClinicalTrials.gov 8,133 COVID-19 clinical trials  
 **Skills:** SELECT, COUNT, GROUP BY, ORDER BY, AVG, CAST, WHERE
 
 ### What I did
@@ -92,7 +92,7 @@ I am building my data skills in Excel, SQL and Power BI.
 - Wrote 5 SQL queries to analyse trial patterns across countries, phases, status and funding
 
 ### Key Findings
-- United States ran the most COVID trials (1,780) — more than double France (894)
+- United States ran the most COVID trials (1,780) more than double France (894)
 - Phase 2 was the most common trial phase (907 trials)
 - More trials were Completed (2,660) than still Recruiting (2,563)
 - Observational studies had far larger average enrollment (68,135) than Interventional (11,522)
